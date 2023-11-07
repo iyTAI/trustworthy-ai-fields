@@ -22,8 +22,8 @@ A summary of current trustworthy AI research fields.
 ## Model Privacy
 - Model stealing
   - defense
-   - watermark
-   - homomorphic encryption
+    - watermark
+    - homomorphic encryption
 
 ## ML System/infrastructure Security
 - Byzantine Learning
