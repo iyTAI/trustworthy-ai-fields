@@ -60,7 +60,7 @@ A summary of current trustworthy AI research fields.
       - Multi-party Homomorphic Encryption
 
 ## Data Security/Privacy
-- Training data security/privacy
+- Training data privacy
   - attacks
     - directly obtained
     - membership inference
@@ -69,6 +69,8 @@ A summary of current trustworthy AI research fields.
     - differential privacy
     - collaborative learning
     - homomorphic encryption
+- Training data security
+  - data poisoning
 
 ## Fairness
 
