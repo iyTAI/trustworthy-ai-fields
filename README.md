@@ -1,4 +1,4 @@
-# trustworthy_ai_fields
+# trustworthy-ai-fields
 A summary of current trustworthy AI research fields.
 
 ## Model Security
